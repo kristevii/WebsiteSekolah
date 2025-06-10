@@ -1,9 +1,21 @@
 <h1>Website Sekolah</h1>
-<h3>Role Admin - Sekolah</h3>
+<h3>Rancangan Database</h3>
+<h4>1. Database Sekolah</h4>
+<img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/database/table.png" width="500" height="auto">
+<h4>2. Tabel Siswa</h4>
+<img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/database/tablesiswa.png" width="500" height="auto">
+<h4>3. Tabel Jurusan</h4>
+<img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/database/tablejurusan.png" width="500" height="auto">
+<h4>4. Tabel Agama</h4>
+<img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/database/tableagama.png" width="500" height="auto">
+<h4>5. Tabel Users</h4>
+<img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/database/tableusers.png" width="500" height="auto">
+<h1></h1>
+<h3>Halaman Login</h3>
+<h5>Pada halaman ini pengguna menginputkan username dan password. Ada tiga role dalam aplikasi ini, Admin, Guru, dan Siswa.</h5>
+<img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/login.png" width="500" height="auto">
+<h3>Admin - Sekolah</h3>
 <table>
-  <tr align="center">
-    <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/login.png" width="200"><br>Halaman Login</td>
-  </tr>
   <tr align="center">
     <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/admin/beranda1.png" width="200"><br>Beranda</td>
     <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/admin/beranda2.png" width="200"><br>Beranda Profile</td>
@@ -46,11 +58,9 @@
     <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/admin/logoutprofile.png" width="200"><br>Modal Logout</td>
   </tr>
 </table>
-<h3>Role Guru - Sekolah</h3>
+<h1></h1>
+<h3>Guru - Sekolah</h3>
 <table>
-  <tr align="center">
-    <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/login.png" width="200"><br>Halaman Login</td>
-  </tr>
   <tr align="center">
     <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/guru/beranda1.png" width="200"><br>Beranda</td>
     <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/guru/beranda2.png" width="200"><br>Beranda Profile</td>
@@ -69,11 +79,8 @@
   </tr>
 </table>
 <h1></h1>
-<h3>Role Siswa - Sekolah</h3>
+<h3>Siswa - Sekolah</h3>
 <table>
-  <tr align="center">
-    <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/login.png" width="200"><br>Halaman Login</td>
-  </tr>
   <tr align="center">
     <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/siswa/beranda1.png" width="200"><br>Beranda</td>
     <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/siswa/beranda2.png" width="200"><br>Beranda Profile</td>
