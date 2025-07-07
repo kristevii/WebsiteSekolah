@@ -1,20 +1,22 @@
-<h1>Website Sekolah</h1>
-<h3>Rancangan Database</h3>
-<h4>1. Database Sekolah</h4>
+<h1>˖ ֹ੭୧ Website Sistem Sekolah ⊹ ࣪ ⑅</h1>
+<h3> ֹ੭୧ Rancangan Database</h3>
+<h4>⌯⌲ Database Sekolah</h4>
 <img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/database/table.png" width="500" height="auto">
-<h4>2. Tabel Siswa</h4>
+<h4>⌯⌲ Tabel Siswa</h4>
 <img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/database/tablesiswa.png" width="500" height="auto">
-<h4>3. Tabel Jurusan</h4>
+<h4>⌯⌲ Tabel Jurusan</h4>
 <img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/database/tablejurusan.png" width="500" height="auto">
-<h4>4. Tabel Agama</h4>
+<h4>⌯⌲ Tabel Agama</h4>
 <img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/database/tableagama.png" width="500" height="auto">
-<h4>5. Tabel Users</h4>
+<h4>⌯⌲ Tabel Users</h4>
 <img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/database/tableusers.png" width="500" height="auto">
 <h1></h1>
-<h3>Halaman Login</h3>
-<h5>Pada halaman ini pengguna menginputkan username dan password. Ada tiga role dalam aplikasi ini, Admin, Guru, dan Siswa.</h5>
+<h3> ֹ੭୧ Halaman Login</h3>
+<h5>⤿ Sebelum mencapai halaman Dashboard, aplikasi akan menampilkan halaman login yang mengharuskan pengguna menginputkan username dan password untuk menuju halaman dashboard. Aplikasi ini memiliki tiga role yaitu Admin, Guru, dan Siswa. Setiap role memiliki hak akses yang berbeda.</h5>
 <img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/login.png" width="500" height="auto">
-<h3>Admin - Sekolah</h3>
+<h3> ֹ੭୧ Halaman Role Admin</h3>
+<h5>⤿ Pada role admin, pengguna memiliki akses berupa tampilan data siswa, jurusan, agama dan user. Pengguna dapat menambah, mengedit, dan menghapus data.</h5>
+<h5>⤿ Pada halaman profile, pengguna hanya dapat mengedit username dan password.</h5>
 <table>
   <tr align="center">
     <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/admin/beranda1.png" width="200"><br>Beranda</td>
@@ -59,7 +61,9 @@
   </tr>
 </table>
 <h1></h1>
-<h3>Guru - Sekolah</h3>
+<h3> ֹ੭୧ Halaman Role Guru</h3>
+<h5>⤿ Pada role guru, pengguna memiliki akses berupa tampilan data siswa, jurusan, dan agama.</h5>
+<h5>⤿ Pada halaman profile, pengguna hanya dapat mengedit username dan password.</h5>
 <table>
   <tr align="center">
     <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/guru/beranda1.png" width="200"><br>Beranda</td>
@@ -79,7 +83,9 @@
   </tr>
 </table>
 <h1></h1>
-<h3>Siswa - Sekolah</h3>
+<h3> ֹ੭୧ Halaman Role Siswa</h3>
+<h5>⤿ Pada role siswa, pengguna memiliki akses berupa tampilan data siswa dan jurusan.</h5>
+<h5>⤿ Pada halaman profile, pengguna hanya dapat mengedit username dan password.</h5>
 <table>
   <tr align="center">
     <td><img src="https://github.com/kristevii/WebsiteSekolah/blob/master/desainwebsite/siswa/beranda1.png" width="200"><br>Beranda</td>
